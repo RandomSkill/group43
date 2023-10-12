@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "projet-group",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomSkill/group43.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandomSkill/group43/issues"
+  },
+  "homepage": "https://github.com/RandomSkill/group43#readme",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
